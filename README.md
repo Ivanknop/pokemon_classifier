@@ -1,8 +1,8 @@
-## ¿Quién es ese Pokémon?
-### Análisis y clasificación de los Pokémon hasta 8va generación
-Proyecto para la asignatura de Minería de Datos de la Especialización en Inteligencia de Datos orientada a Big Data 
+# ¿Quién es ese Pokémon?
+## Análisis y clasificación de los Pokémon hasta 8va generación
+Proyecto para la asignatura de **Minería de Datos** de la **Especialización en Inteligencia de Datos orientada a Big Data** 
 
-#### ¿Qué son los Pokémon? Una breve introducción 
+### ¿Qué son los Pokémon? Una breve introducción 
 
 Pokémon es una franquicia de videojuegos, animes y mangas que cuenta con 28 años y parece no tener fin. La palabra Pokémon es una contracción del japonés Poketto Monsutā, que significa «monstruo de bolsillo»1. Los animales, plantas, espíritus e, incluso, objetos inanimados que aparecen en nuestro mundo, se representa, en este universo, con estas criaturas llamadas Pokémon. Actualmente existen 1025 especies, que se elevan a 1172 al sumar variaciones regionales; Pokémon cuenta con veinte regiones en las que transcurren las diferentes historias según sea la plataforma en que se desarrollan.
 
@@ -17,7 +17,7 @@ El universo íntegro fue creado por un Pokémon singular, al que el fandom se re
 Dado que el universo Pokémon está en constante crecimiento, este tipo de análisis podría permitir preparar a los jugadores, lectores y televidentes de la franquicia para las nuevas especies que se introduzcan. Entre tantas posibles preguntas, una de ellas es: ¿es posible, con los datos de los Pokémon existentes, deducir la composición de futuras generaciones? Veamos a qué conclusiones arribamos.
 
 ***
-##### Objetivo
+### Objetivo
 
 Pretendemos aproximamos a una predicción sobre cómo será una siguiente generación. Dado que los datos analizados corresponden a las primeras 8 generaciones y ya existe una 9na, al finalizar este trabajo buscaremos averiguar si nos hemos acercado a este objetivo. El último apartado incluirá el pronóstico, la realidad de la 9na generación y el grado de aproximación entre uno y otro. 
 
@@ -38,7 +38,7 @@ El trabajo se estructura de la siguiente forma:
 
 ***
 
-#### Acerca del dataset
+### Acerca del dataset
 El dataset puede encontrarse en: https://www.kaggle.com/datasets/jaidalmotra/pokemon-dataset 
 
 Consta de 1072 filas de datos que representan 898 especies de pokémon, incluyendo variedades regionales; Las otras 174 filas de datos corresponden a megaevoluciones o versiones gigantamax; estas son una versión ampliada de una especie dada. En el dataset encontraremos todo esto con el mismo identificador numérico, que proviene de la Pokedex, nomenclador del propio universo Pokémon -una suerte de Enciclopedia Pokémon. 
