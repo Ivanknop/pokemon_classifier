@@ -69,4 +69,4 @@ Para este trabajo utilizaremos
 - Matplotlib
 - Numpy
 - Sklearn
-- wittgenstein
+- Wittgenstein
