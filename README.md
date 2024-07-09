@@ -39,7 +39,7 @@ El trabajo se estructura de la siguiente forma:
 ***
 
 ### Acerca del dataset
-El dataset puede encontrarse en: https://www.kaggle.com/datasets/jaidalmotra/pokemon-dataset 
+El dataset fue descargado de: https://www.kaggle.com/datasets/jaidalmotra/pokemon-dataset 
 
 Consta de 1072 filas de datos que representan 898 especies de pokémon, incluyendo variedades regionales; Las otras 174 filas de datos corresponden a megaevoluciones o versiones gigantamax; estas son una versión ampliada de una especie dada. En el dataset encontraremos todo esto con el mismo identificador numérico, que proviene de la Pokedex, nomenclador del propio universo Pokémon -una suerte de Enciclopedia Pokémon. 
 
