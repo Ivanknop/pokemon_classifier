@@ -74,3 +74,15 @@ Para este trabajo utilizaremos
 - Numpy
 - Sklearn
 - Wittgenstein
+
+
+***
+
+Agradezco profundamente a:
+
+- Jorge Rivera
+- Cecilia García
+- Albertina (Andy) Pujol
+- Magalí Knopoff
+
+Quienes me ayudaron a lo largo del trabajo, los análisis y las conclusiones que se fueron extrayendo.
