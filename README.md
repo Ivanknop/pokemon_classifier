@@ -1,3 +1,7 @@
+![who-s-that-pokemon](who-s-that-pokemon.jpg)
+
+***
+
 # ¿Quién es ese Pokémon?
 ## Análisis y clasificación de los Pokémon hasta 8va generación
 Proyecto para la asignatura de **Minería de Datos** de la **Especialización en Inteligencia de Datos orientada a Big Data** 
